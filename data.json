@@ -1,0 +1,70 @@
+{
+    "wallstreetbets":{
+        "name": "WallStreetBets",
+        "subs": "8.4m",
+        "description": "Some of the greatest trading minds",
+        "posts": [
+            {
+                "title": "Is Musk going to buy GME?",
+                "author": "u/Medium-Mano",
+                "img": "https://i.redd.it/xyveyllusgf61.png"
+            },
+            {
+                "title": "RH eases restrictions again in AMC and GME",
+                "author": "u/grassmunkie",
+                "img": "https://preview.redd.it/kuko3nx6gdf61.jpg?width=960&crop=smart&auto=webp&s=283f88d45c08822b9acac2d18b5bef726f90d380"
+            },
+            {
+                "title": "TO THE MOON",
+                "author": "u/notherbielove",
+                "img": "https://i.redd.it/sdhvwyt12ef61.jpg"
+            }
+        ]
+    },
+    "minecraft": {
+        "name": "Minecraft",
+        "subs": "9.1m",
+        "description": "A place to discuss Minecraft",
+        "posts": [
+            {
+                "title": "Flags. Just flags ok?",
+                "author": "u/Dark-Petr",
+                "img": "https://preview.redd.it/ow05onvp0gf61.png?width=640&crop=smart&auto=webp&s=eaf765e6abd550b1aab7f486088d931f627077fa"
+            },
+            {
+                "title": "Big cathedral interior I spent about 2 weeks on",
+                "author": "u/Paethogan",
+                "img": "https://preview.redd.it/xjmmqzb8kdf61.png?width=640&crop=smart&auto=webp&s=67d655c407d3c82bb657e2e94eb6ebdac87c2c6f"
+            },
+            {
+                "title": "I had a go at making the house from “Bridgerton”. Try to make it my own, what do you guys think?",
+                "author": "u/Themrkizza",
+                "img": "https://preview.redd.it/sq11ro6eagf61.jpg?width=640&crop=smart&auto=webp&s=41265ecfe914e6633549df756ee599d3ffbec3b0"
+
+            }
+        ]
+    },
+    "memes": {
+        "name": "Memes",
+        "subs": "12.7m",
+        "description": "Memes! A way of describing cultural information being shared.",
+        "posts": [
+            {
+                "title": "My English skills",
+                "author": "u/thrixhero",
+                "img": "https://preview.redd.it/p3j5j6vm4ef61.png?width=640&crop=smart&auto=webp&s=51a3002e764b93f12ddd5a6fec2cf1657598467f"
+            },
+            {
+                "title": "Au, that hurt!",
+                "author": "u/CrystalDaKitten",
+                "img": "https://i.redd.it/u6c3n9xglgf61.jpg"
+            },
+            {
+                "title": "Yay!",
+                "author": "u/Umajio",
+                "img": "https://i.redd.it/9ae0dfitref61.png"
+            }
+        ]
+    }
+
+}

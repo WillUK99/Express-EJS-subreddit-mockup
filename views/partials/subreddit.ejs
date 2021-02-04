@@ -1,0 +1,16 @@
+<h1 class="text-center"> Welcome to the <%= name %> subreddit mockup</h1>
+<p class="text-center">Over <b><%= subs %></b> subscriptions</p>
+<p class="text-center">-<i><%= description %></i>-</p>
+
+<div class="container">
+    <% for(let post of posts) { %>
+        <article>
+            <p><%= post.title %> -<b><%= post.author%></b></p>
+            
+            <% if(post.img) { %>
+                <img class ="width: 20rem"src="<%= post.img %> " alt="">
+            <% } %>
+    
+        </article>
+    <% } %>
+</div>
